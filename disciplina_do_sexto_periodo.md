@@ -1,4 +1,6 @@
-Teoria da Computação
+<h1> Teoria da Computação
+------------------------------------------------------------------------------------------
+
 Bibliografia básica
 HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos, linguagens e
 computação. Rio de Janeiro: Campus, 2002.
